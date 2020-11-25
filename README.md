@@ -1,2 +1,2 @@
-# Avr-programlay-c-
+# Avr-programlayici
 AVRdude 
